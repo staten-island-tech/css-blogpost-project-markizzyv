@@ -1,4 +1,22 @@
 body{
-    background-color: aqua;
-    font-size: 40px;
+    background-color: beige;
+    color: brown;
+    font-size: 25px ;
+    margin: 70px;
+}
+.parent{
+    border: 5px solid brown;
+    height: 786px;
+    width: 1313px;
+}
+h1{
+    color: chocolate;
+    text-align: center;
+}
+h2{
+    color: chocolate ;
+    text-align: center;
+}
+img{
+    margin: 65px 340px;
 }
