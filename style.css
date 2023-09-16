@@ -6,17 +6,20 @@ body{
 }
 .parent{
     border: 5px solid brown;
-    height: 786px;
-    width: 1313px;
+    height: 219px;
+    width: 561px;
+    margin: 1px auto;
 }
 h1{
     color: chocolate;
     text-align: center;
+    font-family: 'Oswald', sans-serif;
 }
 h2{
     color: chocolate ;
     text-align: center;
+    font-family: 'Oswald', sans-serif;
 }
 img{
-    margin: 65px 340px;
+    margin: 70px auto;
 }
